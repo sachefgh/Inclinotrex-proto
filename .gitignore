@@ -1,0 +1,18 @@
+# Prerequisites
+#*.d
+
+# Executables
+#*.exe
+#*.out
+#*.app
+
+
+# ZIP files
+*.rar
+*.zip
+*.7z
+
+#forder
+PCB_Design/History/
+PCB_Design/__Previews/
+PCB_Design/Project Logs for Inclinotrex-proto/
